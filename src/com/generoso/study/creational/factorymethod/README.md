@@ -18,6 +18,11 @@ Define an interface for creating an object, but let subclasses decide which clas
 3. A public factory method to return the correct implementation to clients.
 
 ---
+### Structure
+
+<img src="./creational_factory_method.jpg" width="600" height="400">
+
+---
 ### Benefits
 
 * Loose coupling allows changin the internals without impacting customer code
