@@ -1,0 +1,24 @@
+# GoF - Design Patterns
+
+In software engineering, a software design pattern is a general, reusable solution to a commonly occurring problem within a given context in software design.
+It's a description or template for how to solve a problem that can be used in many different situations. Design patterns are formalized best practices that the programmer can use to solve common problems when designing an application or system.
+
+```
+Design patterns gained popularity in computer science after the book Design Patterns: 
+Elements of Reusable Object-Oriented Software was published in 1994 by the so-called "Gang of Four"
+```
+
+---
+## Classification
+
+Design patterns had originally been categorized into 3 sub-classifications based on kind of problem they solve.
+
+* <strong>Creational patterns</strong> provide the capability to create objects based on a required criteria and in a controlled way.
+* <strong>Structural patterns</strong> are about organizing different classes and objects to form larger structures and provide new functionality.
+* <strong>Behavioral patterns</strong> are about identifying common communication patterns between objects and realize these patterns.
+
+---
+<h6>
+@author: <a href="https://github.com/mauriciogeneroso">Maurício Generoso</a> 
+  <br /> <br />
+<a href="https://github.com/mauriciogeneroso/gof-design-patterns/blob/master/LICENSE">MIT LICENSE 📝</a></h6>
