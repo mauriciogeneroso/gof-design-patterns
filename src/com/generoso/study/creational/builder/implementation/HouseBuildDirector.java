@@ -1,4 +1,4 @@
-package com.generoso.study.creational.builder;
+package com.generoso.study.creational.builder.implementation;
 
 public class HouseBuildDirector {
 

@@ -1,5 +1,9 @@
 package com.generoso.study.creational.builder;
 
+import com.generoso.study.creational.builder.implementation.ConcreteHouseBuilder;
+import com.generoso.study.creational.builder.implementation.HouseBuildDirector;
+import com.generoso.study.creational.builder.implementation.HouseBuilder;
+import com.generoso.study.creational.builder.implementation.WoodenHouseBuilder;
 
 public class Demo {
 

@@ -1,6 +1,6 @@
-package com.generoso.study.creational.builder;
+package com.generoso.study.creational.builder.implementation;
 
-public class House {
+class House {
 
   private String floorType;
   private String wallType;
