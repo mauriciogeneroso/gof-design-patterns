@@ -20,9 +20,30 @@ Design patterns had originally been categorized into 3 sub-classifications based
     * <a href="https://github.com/mauriciogeneroso/gof-design-patterns/tree/master/src/com/generoso/study/creational/prototype">Prototype</a>
     * <a href="https://github.com/mauriciogeneroso/gof-design-patterns/tree/master/src/com/generoso/study/creational/singleton">Singleton</a>
 * <strong>Structural patterns</strong> are about organizing different classes and objects to form larger structures and provide new functionality.
+    * Adapter
+    * Bridge
+    * Composite
+    * Decorator
+    * Facade
+    * Flyweight
+    * Proxy
 * <strong>Behavioral patterns</strong> are about identifying common communication patterns between objects and realize these patterns.
-
+    * Chain of Responsability
+    * Command
+    * Interpreter
+    * Iterator
+    * Mediator
+    * Memento
+    * Observer
+    * State
+    * Strategy
+    * Template method
+    * Visitor
+    
 ---
+<h6>Studied using the app <a href="https://play.google.com/store/apps/details?id=com.jaypeesoft.dpad">Gof Design Patterns</a></h6>
+
+--- 
 <h6>
 @author: <a href="https://github.com/mauriciogeneroso">Maurício Generoso</a> 
   <br /> <br />
