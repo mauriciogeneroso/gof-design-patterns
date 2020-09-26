@@ -14,6 +14,11 @@ Elements of Reusable Object-Oriented Software was published in 1994 by the so-ca
 Design patterns had originally been categorized into 3 sub-classifications based on kind of problem they solve.
 
 * <strong>Creational patterns</strong> provide the capability to create objects based on a required criteria and in a controlled way.
+    * <a href="https://github.com/mauriciogeneroso/gof-design-patterns/tree/master/src/com/generoso/study/creational/abstractfactory">Abstract Factory</a>
+    * <a href="https://github.com/mauriciogeneroso/gof-design-patterns/tree/master/src/com/generoso/study/creational/builder">Builder</a>
+    * <a href="https://github.com/mauriciogeneroso/gof-design-patterns/tree/master/src/com/generoso/study/creational/factorymethod">Factory Method</a>
+    * <a href="https://github.com/mauriciogeneroso/gof-design-patterns/tree/master/src/com/generoso/study/creational/prototype">Prototype</a>
+    * <a href="https://github.com/mauriciogeneroso/gof-design-patterns/tree/master/src/com/generoso/study/creational/singleton">Singleton</a>
 * <strong>Structural patterns</strong> are about organizing different classes and objects to form larger structures and provide new functionality.
 * <strong>Behavioral patterns</strong> are about identifying common communication patterns between objects and realize these patterns.
 
