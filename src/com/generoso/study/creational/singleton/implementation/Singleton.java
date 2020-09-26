@@ -1,4 +1,4 @@
-package com.generoso.study.creational.singleton;
+package com.generoso.study.creational.singleton.implementation;
 
 public class Singleton {
 
