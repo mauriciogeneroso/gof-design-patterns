@@ -13,7 +13,7 @@ Provide a surrogate or placeholder for another object to control access to it.
 ---
 ### Structure
 
-<img src="./structure_proxy.jpg" width="600" height="400">
+<img src="./structural_proxy.jpg" width="600" height="400">
 
 ---
 ### Benefits
