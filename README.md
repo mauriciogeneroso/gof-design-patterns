@@ -26,7 +26,7 @@ Design patterns had originally been categorized into 3 sub-classifications based
     * Decorator
     * Facade
     * Flyweight
-    * Proxy
+    * <a href="https://github.com/mauriciogeneroso/gof-design-patterns/tree/master/src/com/generoso/study/structural/proxy">Proxy</a>
 * <strong>Behavioral patterns</strong> are about identifying common communication patterns between objects and realize these patterns.
     * Chain of Responsability
     * Command
