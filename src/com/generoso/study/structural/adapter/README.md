@@ -10,6 +10,14 @@ Convert the interface of a class into another interface clients expect. Adapter 
 * To pergorm impedance matching.
 
 ---
+### Components
+
+1. Target - defines the domain-specific interface that client uses.
+2. Adapter - adapts the interface Adaptee to the Target interface.
+3. Adaptee - defines an existing interface that needs adapting.
+4. Client - collaborates with objects conforming to the Target interface.
+
+---
 ### Structure
 
 Before: <br />
