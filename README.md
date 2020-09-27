@@ -20,7 +20,7 @@ Design patterns had originally been categorized into 3 sub-classifications based
     * <a href="https://github.com/mauriciogeneroso/gof-design-patterns/tree/master/src/com/generoso/study/creational/prototype">Prototype</a>
     * <a href="https://github.com/mauriciogeneroso/gof-design-patterns/tree/master/src/com/generoso/study/creational/singleton">Singleton</a>
 * <strong>Structural patterns</strong> are about organizing different classes and objects to form larger structures and provide new functionality.
-    * Adapter
+    * <a href="https://github.com/mauriciogeneroso/gof-design-patterns/tree/master/src/com/generoso/study/structural/adapter">Adapter</a>
     * Bridge
     * Composite
     * Decorator
