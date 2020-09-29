@@ -28,17 +28,17 @@ Design patterns had originally been categorized into 3 sub-classifications based
     * <a href="https://github.com/mauriciogeneroso/gof-design-patterns/tree/master/src/com/generoso/study/structural/flyweight">Flyweight</a>
     * <a href="https://github.com/mauriciogeneroso/gof-design-patterns/tree/master/src/com/generoso/study/structural/proxy">Proxy</a>
 * <strong>Behavioral patterns</strong> are about identifying common communication patterns between objects and realize these patterns.
-    * Chain of Responsability
-    * Command
-    * Interpreter
-    * Iterator
-    * Mediator
-    * Memento
-    * Observer
-    * State
-    * Strategy
-    * Template method
-    * Visitor
+    * <a href="https://github.com/mauriciogeneroso/gof-design-patterns/tree/master/src/com/generoso/study/behavioral/chainofresponsibility">Chain of Responsability</a>
+    * <a href="https://github.com/mauriciogeneroso/gof-design-patterns/tree/master/src/com/generoso/study/behavioral/command">Command</a>
+    * <a href="https://github.com/mauriciogeneroso/gof-design-patterns/tree/master/src/com/generoso/study/behavioral/interpreter">Interpreter</a>
+    * <a href="">Iterator</a>
+    * <a href="https://github.com/mauriciogeneroso/gof-design-patterns/tree/master/src/com/generoso/study/behavioral/iterator">Mediator</a>
+    * <a href="https://github.com/mauriciogeneroso/gof-design-patterns/tree/master/src/com/generoso/study/behavioral/memento">Memento</a>
+    * <a href="https://github.com/mauriciogeneroso/gof-design-patterns/tree/master/src/com/generoso/study/behavioral/observer">Observer</a>
+    * <a href="https://github.com/mauriciogeneroso/gof-design-patterns/tree/master/src/com/generoso/study/behavioral/state">State</a>
+    * <a href="https://github.com/mauriciogeneroso/gof-design-patterns/tree/master/src/com/generoso/study/behavioral/strategy">Strategy</a>
+    * <a href="https://github.com/mauriciogeneroso/gof-design-patterns/tree/master/src/com/generoso/study/behavioral/templatemethod">Template method</a>
+    * <a href="https://github.com/mauriciogeneroso/gof-design-patterns/tree/master/src/com/generoso/study/behavioral/visitor">Visitor</a>
     
 ---
 <h6>Studied using the app <a href="https://play.google.com/store/apps/details?id=com.jaypeesoft.dpad">Gof Design Patterns</a></h6>
