@@ -18,6 +18,15 @@ Convert the interface of a class into another interface clients expect. Adapter 
 4. Client - collaborates with objects conforming to the Target interface.
 
 ---
+### Example of implementation
+
+Assume that you have an e-commerce application which is serving your customers for a long time. This e-commerce application is using a Legacy Order Management system (OMS). Due to the high maintenance cost and degraded pergormance of the legacy OMS software, you have decided to use a cheap and efficient OMS software which is readily available in the market. However, you realize that the interfaces are different in the new sofware and it requires a lot of code changein the existing e-commerce interface.
+
+Adapter design pattern can be very useful in these situations. Instead of modifying your e-commerce application to use the new interfaces, you can write a 'wrapper' class that acts as a bridge between your e-commerce application and the new OMS software. With this approach, the e-commerce application can still use the old interface.
+
+Adapter design pattern can be implemented in two ways. one using the inheritance method (Class Adapter) and second using the composition (Object Adapter). The following example depicts the implementation of Object Adapter.
+
+---
 ### Structure
 
 Before: <br />
