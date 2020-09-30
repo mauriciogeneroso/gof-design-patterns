@@ -41,8 +41,8 @@ Design patterns had originally been categorized into 3 sub-classifications based
     * <a href="https://github.com/mauriciogeneroso/gof-design-patterns/tree/master/src/com/generoso/study/behavioral/visitor">Visitor</a>
     
 ---
-# Sources
-* <a href="https://www.hostgator.com.br/blog/design-patterns-e-seus-beneficios/">Hostgator blog (Portuguese)</a>
+### Sources
+* <h6><a href="https://www.hostgator.com.br/blog/design-patterns-e-seus-beneficios/">Hostgator blog (Portuguese)</a></h6>
 * <h6>Studied using the app <a href="https://play.google.com/store/apps/details?id=com.jaypeesoft.dpad">Gof Design Patterns</a></h6>
 
 --- 
