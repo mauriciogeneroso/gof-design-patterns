@@ -1,7 +1,7 @@
 # Structural: Bridge
 ### Intent
 
-Decouple an abstraction from its implementation so that the two can vary indenpendently.
+Decouple an abstraction from its implementation so that the two can vary independently.
 
 ---
 ### When to use
