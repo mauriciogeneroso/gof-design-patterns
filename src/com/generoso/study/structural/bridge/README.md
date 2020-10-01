@@ -11,6 +11,11 @@ Decouple an abstraction from its implementation so that the two can vary indepen
 * To share an implementation among multiple objects and to map orthogonal class hierarchies.
 
 ---
+### Example 
+
+The Bridge pattern is an application of the old advice, "prefer composition over inheritance". It becomes handy when you must subclass different times int ways that are orthogonal with one another. Say you must implement a hierarchy of colored shapes. You wouldn't want to subclass Shape with Rectangle and Circle and then subclass Rectangle with RedRectangle, BlueRectangle and GreenRectangle and the same for Circle. You would prefer to say that each Shape has a Color and to implemnent a hirarchy of colors, and that is the Bridge pattern.
+
+---
 ### Structure
 
 <img src="./structural_bridge.jpg" width="600" height="400">
