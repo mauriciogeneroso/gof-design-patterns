@@ -11,9 +11,14 @@ Attach additional responsibilities to an object dynamically. Decorators provide 
 * To combine multiple funcionalities where it is impractical to create a subclass for every possible combination.
 
 ---
+### Example
+
+Assume that you need to prepare a pizza that may have multiple combinations of toppings, cooking type, etc. Though this can be achieved by Enheritance, it is not 
+practical to create subclasses for every possible combination. alternatively you can use Composition and add the requered functionalities. Since all concrete implementations conform to the same interface, we can mix and match any number of classes to create a variety of combinations.
+
+---
 ### Structure
 
-Before: <br />
 <img src="./structural_decorator.jpg" width="600" height="400">
 
 ---
