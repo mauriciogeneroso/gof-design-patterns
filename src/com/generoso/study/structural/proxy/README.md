@@ -11,6 +11,13 @@ Provide a surrogate or placeholder for another object to control access to it.
 * To improve performance when an object needs to be accessed frequently
 
 ---
+### Example
+
+Let us see the example of a Proxy Server. A proxy server, also know as a "proxy" or "application-level gateway", is a computer that acts as a gateway between a local network (e.g. all the computers at one company or in one building) and a larger-scale network such as the internet. Proxy server can act as an intermediary between the user's computer and the internet prevent from attack and unexpected access.
+
+A proxy server will behave just like the real server and implements the same interface.
+
+---
 ### Structure
 
 <img src="./structural_proxy.jpg" width="600" height="400">
