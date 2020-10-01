@@ -10,6 +10,12 @@ Compose objects into tree structures to represent part-whole hierarchies. Compos
 * To create a structure in a way that the objects in the structure can be treated the same way.
 
 ---
+### Example
+
+Typical example is the File system which contains directories and files. A directory can contain files or sub directories but both have to be handled in the same way.
+In the following example, boxes and products are implemented using the Composite pattern. A box can contain many products and boxes. We need a common way to interact with both entities.
+
+---
 ### Structure
 
 <img src="./structural_composite.jpg" width="600" height="400">
