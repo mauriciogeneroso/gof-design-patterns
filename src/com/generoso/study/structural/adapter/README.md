@@ -7,7 +7,7 @@ Convert the interface of a class into another interface clients expect. Adapter 
 ### When to use
 
 * To wrap an existing class with a new interface.
-* To pergorm impedance matching.
+* To perform impedance matching.
 
 ---
 ### Components
