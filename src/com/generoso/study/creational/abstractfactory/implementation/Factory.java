@@ -16,19 +16,19 @@ public abstract class Factory {
     }
 
     switch (vehicleType) {
-      case "car" -> {
+      case "car": {
         if (carFactory == null) {
           carFactory = new CarFactory();
         }
         return carFactory;
       }
-      case "truck" -> {
+      case "truck": {
         if (truckFactory == null) {
           truckFactory = new TruckFactory();
         }
         return truckFactory;
       }
-      default -> throw new UnknownVehicleException();
+      default: throw new UnknownVehicleException();
     }
   }
 }

@@ -8,11 +8,11 @@ public class VehicleFactory {
       return null;
     }
 
-    return switch (vehicleType) {
-      case "car" -> new Car();
-      case "truck" -> new Truck();
-      case "motorcycle" -> new Motorcycle();
-      default -> throw new VehicleNotFoundException();
-    };
+    switch (vehicleType) {
+      case "car": return new Car();
+      case "truck": return new Truck();
+      case "motorcycle": return new Motorcycle();
+      default: throw new VehicleNotFoundException();
+    }
   }
 }
