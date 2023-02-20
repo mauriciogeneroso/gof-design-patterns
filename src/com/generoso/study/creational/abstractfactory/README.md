@@ -7,7 +7,7 @@ Provide an interface for creating families of related or dependent objects witho
 ### When to use
 
 * To support families of related or dependent objects.
-* To encapsulate platform dependencies to male an application portable.
+* To encapsulate platform dependencies to make an application portable.
 * To prevent client code from using the "new" operator.
 * To easily swap the underlying platform with minimal changes.
 

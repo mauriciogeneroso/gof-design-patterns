@@ -1,7 +1,7 @@
 # Creational: Prototype
 ### Intent
 
-Specify the kinds of objects to create using a prototupical instance and create new objects copying this prototype.
+Specify the kinds of objects to create using a prototypical instance and create new objects copying this prototype.
 
 ---
 ### When to use

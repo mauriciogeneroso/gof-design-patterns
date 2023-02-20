@@ -8,7 +8,7 @@ public class Demo {
 
     // Create base machine images
     MachineImage linuxVM = new MachineImage("Linux", "Symantec");
-    MachineImage windowsVM = new MachineImage("Windows", "MaFee");
+    MachineImage windowsVM = new MachineImage("Windows", "McFee");
 
     // Clone linux VM and install web server
     MachineImage webServer = linuxVM.clone();
